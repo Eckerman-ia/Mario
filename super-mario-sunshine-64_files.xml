@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1620062423</mtime>
+    <size>9151</size>
+    <md5>e245e3281839cde4c0e388caf281bdcc</md5>
+    <crc32>07e6002d</crc32>
+    <sha1>b2fd6b5b5f4aba1a6a427c209301c031a1c2b8c4</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="super-mario-sunshine-64.swf" source="original">
+    <mtime>1607029403</mtime>
+    <size>5145387</size>
+    <md5>9512ca0bbf8256ac93cfa5950d94a51f</md5>
+    <crc32>cae48fb3</crc32>
+    <sha1>4f2602069b7079be8073b25a5bf2fa77415423db</sha1>
+    <format>Shockwave Flash</format>
+    <length>5.48</length>
+    <height>336</height>
+    <width>408</width>
+  </file>
+  <file name="super-mario-sunshine-64_archive.torrent" source="metadata">
+    <btih>62b4e7a7872dc77cfaaa43e6769085401ed03d13</btih>
+    <mtime>1685144184</mtime>
+    <size>2321</size>
+    <md5>d86b7f436b218df8bb4b0f26378326bd</md5>
+    <crc32>4b9d6a65</crc32>
+    <sha1>9cae0913b287a5df48bf12a4ae696609b0661a82</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="super-mario-sunshine-64_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>81beb5db682a813fb3174e8fa28728f6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="super-mario-sunshine-64_meta.sqlite" source="original">
+    <mtime>1607029499</mtime>
+    <size>14336</size>
+    <md5>e25790259f6042f2a6b2b5f4e51f6486</md5>
+    <crc32>cb60ef82</crc32>
+    <sha1>71c4c763ed6bcbc1d8e94152309dc0c72992ca80</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="super-mario-sunshine-64_meta.xml" source="original">
+    <mtime>1654866628</mtime>
+    <size>1142</size>
+    <md5>98ab7af7a9b05493987938bf619a43ab</md5>
+    <crc32>688904da</crc32>
+    <sha1>b6f0ed24e24f0ca82d9c426a2ce8a0dd86e8a7e9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="super-mario-sunshine-64_reviews.xml" source="original">
+    <mtime>1685144182</mtime>
+    <size>2113</size>
+    <md5>4ebdf6abe6ad2699b2ca50bd93326d38</md5>
+    <crc32>76c94f25</crc32>
+    <sha1>6e84f82dd95948f95ac69c4aa6838a56f255ed5e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="super-mario-sunshine-64_screenshot.jpg" source="original">
+    <mtime>1607029441</mtime>
+    <size>251891</size>
+    <md5>bc05f5d8948072f8051dd0b3142fb7d9</md5>
+    <crc32>0985a256</crc32>
+    <sha1>ce239f847fd0e3b0f7e08fc747682229cace41e3</sha1>
+    <format>Emulator Screenshot</format>
+    <rotation>0</rotation>
+  </file>
+</files>

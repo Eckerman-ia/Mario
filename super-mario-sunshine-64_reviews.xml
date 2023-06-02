@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="super-mario-sunshine-64">
+  <review>
+    <reviewtitle>Loading</reviewtitle>
+    <reviewbody>I can't play the game if it will not stop loading.</reviewbody>
+    <stars>3</stars>
+    <reviewer>Sonic is the best</reviewer>
+    <reviewdate>2021-02-04 18:03:40</reviewdate>
+    <createdate>2021-02-04 18:03:40</createdate>
+    <reviewer_itemname>@sonic_is_the_best</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Thumbs Up</reviewtitle>
+    <reviewbody>I can play this.</reviewbody>
+    <stars>5</stars>
+    <reviewer>Rolando Lopez</reviewer>
+    <reviewdate>2021-12-18 15:22:54</reviewdate>
+    <createdate>2021-12-18 15:22:54</createdate>
+    <reviewer_itemname>@rolando_lopez</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>GREAT!!!</reviewtitle>
+    <reviewbody>This game is so good! I can play this game
+</reviewbody>
+    <stars>5</stars>
+    <reviewer>IAIN KIRK</reviewer>
+    <reviewdate>2022-06-10 13:10:33</reviewdate>
+    <createdate>2022-06-10 13:10:26</createdate>
+    <reviewer_itemname>@iain_kirk</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>it works</reviewtitle>
+    <reviewbody>i asked for a game, and i got a game.</reviewbody>
+    <stars>5</stars>
+    <reviewer>joemama32</reviewer>
+    <reviewdate>2023-04-13 15:32:29</reviewdate>
+    <createdate>2023-04-13 15:32:29</createdate>
+    <reviewer_itemname>@joemama32</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Great Game!</reviewtitle>
+    <reviewbody>I remember this game since I was little. So much nostalgia! This game does not lag, like some of the other places that I have played this game on. That has always been one of my favorite games! For me, this game is a 10/10! </reviewbody>
+    <stars>5</stars>
+    <reviewer>I Don't Like Sand 2.0</reviewer>
+    <reviewdate>2023-05-26 23:36:17</reviewdate>
+    <createdate>2023-05-26 23:36:17</createdate>
+    <reviewer_itemname>@i_don_t_like_sand_2_0</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>5</num_reviews>
+    <avg_rating>4.60</avg_rating>
+  </info>
+</reviews>
